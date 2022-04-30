@@ -14,8 +14,8 @@
 **Too Low**
 <img src="./images/low.png" />
 
-**Too Lost**
+**Lost**
 <img src="./images/lost.png" />
 
-**Too Win**
+**Win**
 <img src="./images/win.png" />
